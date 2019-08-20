@@ -26,7 +26,7 @@ There is 1 jupyter notebook `StackOverflow_Analysis2019.ipynb` added on this git
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@rsyed1/is-stack-overflow-the-best-tool-to-demystify-code-d08d196eb03).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
